@@ -4,7 +4,7 @@ To analyze trends in Kickstarter dataset with problem statements provided by mav
 - Must be executed in a PostgreSQL-friendly database environment. At least one Postgres-specific function was utilized.
 - Replace the /directory/ placeholder in the COPY statements with the destination directory of this repo.
 
-Companion analysis with visualizations to come in corresponding Substack article: https://dataalchemy.substack.com
+Companion analysis with visualizations to come in corresponding Substack article: https://dataalchemy.substack.com/p/kickstarter-2009-2017-data-project
 
 Problem Statements with Brief Analysis:
 
